@@ -1,0 +1,14 @@
+name: Group_4
+title: Group_4
+username:
+account: qqk451-nikkinikkinikki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4215890
+bundleId: 4700858
+url: https://qqk451-nikkinikkinikki.shinyapps.io/Group_4/
+when: 1623327357.44208
+lastSyncTime: 1623327357.44208
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/owid-covid-data.csv|data_worldbank/API_HD.HCI.OVRL_DS63_en_csv_v2_2464554.csv|data_worldbank/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2445719.csv|data_worldbank/API_SH.XPD.CHEX.GD.ZS_DS2_en_csv_v2_2449826.csv|data_worldbank/wrangled.csv|testing.Rmd|__MACOSX
